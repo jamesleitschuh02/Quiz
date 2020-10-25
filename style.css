@@ -1,0 +1,22 @@
+.container{
+    max-width: 80%;
+}
+
+.start-next{
+    margin-top: 30px;
+}
+
+.body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+.hide{
+    display: none;
+}
+
